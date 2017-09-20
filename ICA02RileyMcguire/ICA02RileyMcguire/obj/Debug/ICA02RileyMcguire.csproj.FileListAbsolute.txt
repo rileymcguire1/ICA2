@@ -1,0 +1,9 @@
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\bin\Debug\ICA02RileyMcguire.exe.config
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\bin\Debug\ICA02RileyMcguire.exe
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\bin\Debug\ICA02RileyMcguire.pdb
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\obj\Debug\ICA02RileyMcguire.csprojResolveAssemblyReference.cache
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\obj\Debug\ICA02RileyMcguire.Form1.resources
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\obj\Debug\ICA02RileyMcguire.Properties.Resources.resources
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\obj\Debug\ICA02RileyMcguire.csproj.GenerateResource.Cache
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\obj\Debug\ICA02RileyMcguire.exe
+c:\users\rmcguire2\documents\visual studio 2017\Projects\ICA02RileyMcguire\ICA02RileyMcguire\obj\Debug\ICA02RileyMcguire.pdb
